@@ -20,6 +20,13 @@ struct ContentView: View {
             Text("Hello, world!")
         }
         .padding()
+        //
+        //  Genaro
+        //  BasicSwiftUI
+        //
+        //  Created by Gennaro Caccavallo on 18/10/22.
+        //
+        
     }
 }
 
